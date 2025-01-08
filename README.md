@@ -98,4 +98,4 @@ These findings and insights highlight opportunities to optimize the chips catego
     - Considering two key metrics: sales correlation and distance measure.
     - Creating a weighted harmonic measure (0.5 weight each) to resolve potential conflicts between different metrics.
     - Ensuring reliable benchmarks for comparison.
-- *Based on the analysis of sales data, trial store performance increased as a result of the new store layout.*
+- Based on the DID analysis, trial store sales increased 7% to 12% due to the new store layout.

@@ -1,35 +1,101 @@
 
-# Chips Sales Analysis Report
+## Part 1: Customer Insights and Purchasing Behaviour for the Chips Category
 
-## I. Market Overview
-Based on our in-depth analysis of chips sales data, Mainstream market customers are the primary sales contributors, with Young Singles/Couples and Midage Singles/Couples segments showing particularly strong performance.
+The objective of this analysis is to provide actionable insights into customer purchasing behavior in the chips category. Analysis reveals that growth opportunities in the chips category are concentrated among high-spending mainstream young and middle-aged singles/couples, as well as value-conscious family groups. By leveraging customized promotions and expanding healthier product options, we can maximize revenue and enhance customer satisfaction.
 
-## II. Customer Segment Analysis
+### Identified Metrics
 
-### 1. Sales Performance
-The mainstream young singles/couples and retirees segments have the highest number of customers, directly driving higher sales volumes. We've observed that older families and young families generally purchase more chips per customer. Interestingly, the average spending across different categories (mainstream, budget, and premium) shows minimal variation.
+#### **Key Metrics for Analysis**
 
-### 2. Purchasing Behavior Characteristics
-New families, young singles/couples, and retirees show a preference for larger package sizes and are willing to accept higher unit prices. Mainstream market customers generally demonstrate a higher willingness to pay premium prices for chips. Notably, mainstream midage and young singles/couples are more inclined to pay higher prices per packet compared to their budget and premium counterparts.
+##### **1. Sales Metrics**
 
-Premium market customers primarily purchase chips for entertainment purposes rather than personal consumption, and they tend to prefer healthier snack options. This is reflected in the lower number of premium midage and young singles/couples purchasing chips compared to their mainstream counterparts.
+- **Total Sales ($):** Revenue by customer segment.
+- **ATV (Average Transaction Value):** Average spend per transaction.
+- **Sales by Brand:** Revenue contribution of key brands.
 
-### 3. Brand Preferences
+##### **2. Customer Metrics**
+
+- **Customer Count:** Unique customers buying chips.
+- **Purchase Frequency:** Average purchases per customer in a period.
+
+##### **3. Basket Metrics**
+
+- **Basket Size (Units):** Average packets per transaction.
+- **Basket Value ($):** Spend on chips per transaction.
+
+##### **4. Price Sensitivity Metrics**
+
+- **Price per Unit ($):** Average price paid per packet.
+
+##### **5. Segment-Specific Metrics**
+
+- **Sales by Segment (%):** Sales by demographic segment.
+- **Segment Purchase Behavior:** Basket size, frequency, and spend per segment.
+- **Bulk Purchases:** Average packets per transaction per segment.
+
+### Key Findings
+
+#### **1. Total Sales Contribution**
+
+- **Mainstream Young Singles/Couples** and **Mainstream Midage Singles/Couples** account for the highest total sales in the chips category.
+- **Midage Singles/Couples**, despite having a smaller customer base, contribute significantly to total sales due to their higher purchase frequency per customer.
+
+#### **2. Customer Count**
+
+- The largest customer groups are **Mainstream Young Singles/Couples** and **Mainstream Retirees**.
+
+#### **3. Budget Segmentation and Purchase Behavior**
+
+- **Young Families** and **Older Families** purchase a higher number of chip packets per transaction compared to other groups, indicating a preference for bulk purchases.
+- **Older Families** tend to purchase chips more frequently than any other group. However, their total spending is average due to their preference for budget-friendly options, often buying chips with lower price-per-pack.
+
+#### **4. Price Sensitivity**
+
+- **Mainstream Midage Singles/Couples** and **Young Singles/Couples** are willing to pay a higher price per packet of chips compared to their Budget and Premium counterparts.
+    - **Premium Shoppers** (Midage and Young Singles/Couples) buy chips less frequently. This group likely opts for healthier snacks and purchases chips primarily for entertainment purposes rather than regular consumption.
+
+#### **5. Brand Preferences**
+
 Kettle, Smiths, Doritos, and Pringles consistently emerge as the four most popular brands across all customer segments.
 
-## III. Recommendations
+### Insights and Strategic Recommendations
 
-### 1. Product Strategy
-* Develop mid to high-end product lines targeting mainstream market young and midage singles/couples
-* Create family-sized value packs for household customers
-* Maintain consistent supply of the four major brands to ensure stock availability
+#### **1. Targeting High-Spending Segments**
 
-### 2. Marketing Strategy
-* Focus advertising resources on mainstream market young and midage singles/couples
-* Develop large-package promotions targeting new families and retirees
-* Promote specially packaged products for social occasions in the premium market segment
+- **Mainstream Midage Singles/Couples** and **Young Singles/Couples** are key drivers of total sales. Focus promotional efforts and premium product placements towards these groups to maximize revenue.
+- Consider introducing **premium, high-quality chips** or bundles that appeal to their willingness to pay higher prices.
 
-### 4. Pricing Strategy
-* Maintain current pricing strategy for mainstream market customers given their demonstrated price acceptance
-* Introduce bulk purchase discounts for family customers
-* Launch limited editions or special editions in the premium market segment to maintain brand positioning
+#### **2. Catering to Budget-Conscious Families**
+
+- For **Older Families**, enhance the visibility of affordable, family-sized chip options in-store and online. Promotions on multi-pack chips with budget-friendly pricing could resonate well with this group.
+
+#### **3. Bulk Buying Opportunities**
+
+- Both **Young Families** and **Older Families** exhibit a tendency to purchase more packets per transaction. Introduce family-sized deals, such as "buy more, save more" campaigns, to capitalize on their bulk-buying behavior.
+
+#### **4. Diversifying Healthy Snack Options**
+
+- Given the healthier snack preferences of **Premium Shoppers**, consider expanding the healthy snack range to align with their needs while maintaining the availability of premium chips for occasional entertainment consumption.
+
+#### **5. Addressing Retirees**
+
+- **Mainstream Retirees** represent a significant customer base. Tailored promotions, smaller package sizes, and products emphasizing quality over quantity could attract this demographic.
+
+#### **6. Brand Preference**
+
+Highlight popular brands prominently in-store and online, ensuring they are accessible and visible during peak shopping hours.
+
+### Conclusion
+
+These findings and insights highlight opportunities to optimize the chips category strategy, driving both revenue and customer satisfaction. By addressing the unique behaviors and preferences of each segment, the supermarket can ensure sustained growth and better customer alignment in the chips category over the next six months.
+
+---
+
+## Part 2: Trial Analysis
+
+- Defined metrics to select control stores: Monthly sales and customer counts from the pre-trial period.
+- Designed a comprehensive scoring system to select the most appropriate **control stores by:**
+    - Considering two key metrics: sales correlation and distance measure.
+    - Creating a weighted harmonic measure (0.5 weight each) to resolve potential conflicts between different metrics.
+    - Ensuring reliable benchmarks for comparison.
+- *Based on the analysis of sales data, trial store performance increased as a result of the new store layout.*
